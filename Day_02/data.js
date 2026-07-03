@@ -6,7 +6,7 @@ const PORT = 3000;
 
 // This is a GET Route. When the browser visits '/', it sends a message.
 app.get('/', (request, response) => {
-    response.send("Hello! My Node.js server is running!");
+    response.send("Hello My Node.js server is running!");
 });
 
 // This is an API Route. It returns our mock data as JSON.
