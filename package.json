@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/MKDGThathsarani/Web-App-Development/issues"
   },
-  "homepage": "https://github.com/MKDGThathsarani/Web-App-Development#readme"
+  "homepage": "https://github.com/MKDGThathsarani/Web-App-Development#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
