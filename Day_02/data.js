@@ -3,4 +3,4 @@ const users = [
     { id: 2, name: "Student", role: "User" }
 ];
 
-module.exports = users;
+module.exports = { users };
