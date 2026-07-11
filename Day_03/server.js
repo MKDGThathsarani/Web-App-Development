@@ -10,7 +10,7 @@ app.use(express.json());
 
 // 4. Initial book data array (acts as a temporary "database")
 let books = [
-    { id: 1, title: "1984" },
+    { id: 1, title: "150" },
     { id: 2, title: "The Great Gatsby" }
 ];
 
