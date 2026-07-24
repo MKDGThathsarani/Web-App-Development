@@ -1,1 +1,3 @@
-/node_modules
+# never commit generated or binary files
+node_modules/
+users.db
